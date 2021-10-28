@@ -1,0 +1,61 @@
+body{
+    margin:0;                      
+    padding:0;
+    box-sizing: border-box;
+}
+
+.background{
+    width: 100vw;
+    height: 100vh;
+    background-image : url(./back.JPG);
+    background-repeat : no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+
+
+.nav{
+    height: 10px;
+    position: absolute;
+    top:25%;
+    
+}
+
+.nav-email{
+    margin-left: 80px;
+    font-size: 20px;
+
+}
+
+.nav-item{
+    margin-left: 70px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    
+}
+
+.nav-name{
+    margin-top: 30px;
+    margin-left: 80px;
+    font-size: 40px;
+}
+
+.icon{
+    height: 1px;
+    margin-left: 80px;
+
+    display: flex;
+}
+
+.icon-git{
+    margin-right: 10px;
+}
+
+.icon-velog{
+    margin-right: 10px;
+}
+
+/*---------------- me.html --------------*/
+
